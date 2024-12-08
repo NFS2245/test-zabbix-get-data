@@ -1,4 +1,4 @@
-# Proyek Pengolahan Data Excel dengan Tkinter
+# Pengolahan Data Excel dengan Tkinter
 
 Proyek ini adalah aplikasi berbasis Python yang digunakan untuk memproses data dari file teks dan menghasilkan file Excel dengan menambahkan border pada setiap sel serta menyesuaikan ukuran kolom sesuai dengan panjang data. Aplikasi ini dilengkapi dengan antarmuka pengguna menggunakan `Tkinter`.
 
