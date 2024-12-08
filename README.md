@@ -55,6 +55,7 @@ Sebelum menjalankan aplikasi, pastikan Anda telah menginstal semua dependensi be
     requests
     openpyxl
     ttkbootstrap
+    lxml
     ```
 
 ## Penggunaan
